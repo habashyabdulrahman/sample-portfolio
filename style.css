@@ -474,9 +474,11 @@ footer ul li a {
         gap: 10rem;
     }
 
+    .about-container img { width: 80vw; }
+    
     .experience .section-title { font-size: 3rem; }
 
-    .about-container img { width: 80vw; }
+    .project-card { padding: 1rem 2rem; }
 
     .btn-group {
         flex-direction: column;
